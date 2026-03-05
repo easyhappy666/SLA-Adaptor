@@ -1,0 +1,77 @@
+[
+    {
+        "image_file": "images/broken_large_019.png",
+        "condition_file": "patches/broken_large_019.png",
+        "text": "a photo of a bottle with large broken glass area"
+    },
+    {
+        "image_file": "images/broken_large_005.png",
+        "condition_file": "patches/broken_large_005.png",
+        "text": "a photo of a bottle with large broken glass area"
+    },
+    {
+        "image_file": "images/broken_large_014.png",
+        "condition_file": "patches/broken_large_014.png",
+        "text": "a photo of a bottle with large broken glass area"
+    },
+    {
+        "image_file": "images/broken_large_004.png",
+        "condition_file": "patches/broken_large_004.png",
+        "text": "a photo of a bottle with large broken glass area"
+    },
+    {
+        "image_file": "images/broken_large_009.png",
+        "condition_file": "patches/broken_large_009.png",
+        "text": "a photo of a bottle with large broken glass area"
+    },
+    {
+        "image_file": "images/broken_small_009.png",
+        "condition_file": "patches/broken_small_009.png",
+        "text": "a photo of a bottle with small shattered glass fracture"
+    },
+    {
+        "image_file": "images/broken_small_003.png",
+        "condition_file": "patches/broken_small_003.png",
+        "text": "a photo of a bottle with small shattered glass fracture"
+    },
+    {
+        "image_file": "images/broken_small_010.png",
+        "condition_file": "patches/broken_small_010.png",
+        "text": "a photo of a bottle with small shattered glass fracture"
+    },
+    {
+        "image_file": "images/broken_small_015.png",
+        "condition_file": "patches/broken_small_015.png",
+        "text": "a photo of a bottle with small shattered glass fracture"
+    },
+    {
+        "image_file": "images/broken_small_016.png",
+        "condition_file": "patches/broken_small_016.png",
+        "text": "a photo of a bottle with small shattered glass fracture"
+    },
+    {
+        "image_file": "images/contamination_002.png",
+        "condition_file": "patches/contamination_002.png",
+        "text": "a photo of a bottle with foreign contamination spot inside"
+    },
+    {
+        "image_file": "images/contamination_010.png",
+        "condition_file": "patches/contamination_010.png",
+        "text": "a photo of a bottle with foreign contamination spot inside"
+    },
+    {
+        "image_file": "images/contamination_007.png",
+        "condition_file": "patches/contamination_007.png",
+        "text": "a photo of a bottle with foreign contamination spot inside"
+    },
+    {
+        "image_file": "images/contamination_012.png",
+        "condition_file": "patches/contamination_012.png",
+        "text": "a photo of a bottle with foreign contamination spot inside"
+    },
+    {
+        "image_file": "images/contamination_013.png",
+        "condition_file": "patches/contamination_013.png",
+        "text": "a photo of a bottle with foreign contamination spot inside"
+    }
+]
